@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+python-multipart
+httpx
+websockets
+python-dotenv
+langchain
+langchain-google-genai
+pydantic
+sqlalchemy
+google-generativeai
